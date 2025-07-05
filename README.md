@@ -14,7 +14,7 @@ Hello Dear , This is my pleasure to take this task.The Task was insightful and I
 ![add to cart](images/addToCart.PNG)
 
 **Order proceed (successful scenario)**
-![order proceed](images/order-proceed)
+![order proceed](images/order-proceed.PNG)
 
 **Corner case for product expiration**
 ![Product expired](images/expired.PNG)
