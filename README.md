@@ -6,25 +6,26 @@ Hello Dear , This is my pleasure to take this task.The Task was insightful and I
 **I make the app more dynamic by making the customer choose from the list**
 
 ![Initial Screen](images/initial.PNG)
-
+---
 **This our product after choosing product list**
 ![Product List](images/list-product.PNG)
-
+---
 **Add to cart (successful scenario)**
 ![add to cart](images/addToCart.PNG)
+---
 
 **Order proceed (successful scenario)**
 ![order proceed](images/order-proceed.PNG)
-
+---
 **Corner case for product expiration**
 ![Product expired](images/expired.PNG)
-
+---
 **Corner case for out of stock**
 ![out of stock](images/out-of-stock.PNG)
-
+---
 **Order not proceed due to insufficient balance**
 ![order not proceed](images/order-not-proceed.PNG)
-
+---
 
 
 
@@ -32,7 +33,7 @@ Hello Dear , This is my pleasure to take this task.The Task was insightful and I
 I Tried my best to make the solution strict to principles of Object Oriented Design.The solution is concerned about making the classes not tightly coupled but have a high cohesion and this is my Class Diagram. 
 
 
-![Class Diagram](classDiagram.png)
+![Class Diagram](Class-Diagram.png)
 
 ## brief about each class 
 
