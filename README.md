@@ -6,4 +6,4 @@ Hello Dear , This is my pleasure to take this task.The Task was insightful and I
 I Tried my best to make the solution strict to principles of Object Oriented Design.The solution is concerned about making the classes not tightly coupled but have a high cohesion and this is my Class Diagram. 
 
 
-![Class Diagram](class-Diagram.png)
+![Class Diagram](Class-Diagram.png)
