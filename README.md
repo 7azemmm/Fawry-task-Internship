@@ -7,28 +7,48 @@ Hello Dear , This is my pleasure to take this task.The Task was insightful and I
 
 ![Initial Screen](images/initial.PNG)
 ---
-**This our product after choosing product list**
+**code example for list the products**
+![Product List code example](images/print-product-list.PNG)
+**This our products after choosing product list**
 ![Product List](images/list-product.PNG)
 ---
+
+**code example for add to cart**
+![add to cart code example](images/case1,2.PNG)
+![add to cart code example](images/addproduct.PNG)
+
 **Add to cart (successful scenario)**
 ![add to cart](images/addToCart.PNG)
 ---
+
+**code example of order proceeding**
+![order proceed code example](images/code-example.PNG)
 
 **Order proceed (successful scenario)**
 ![order proceed](images/order-proceed.PNG)
 ---
 
+**code example for empty cart case**
+![empty cart](images/print-order.PNG)
+
 **Corner case for empty cart**
 ![empty cart](images/empty-cart.PNG)
 ---
-
+**code example Corner case for product expiration**
+![Product expired](images/isexpired.PNG)
 
 **Corner case for product expiration**
 ![Product expired](images/expired.PNG)
 ---
+**code example for Corner case for out of stock**
+![out of stock](images/addproduct.PNG)
+
 **Corner case for out of stock**
 ![out of stock](images/out-of-stock.PNG)
 ---
+**code example for Order not proceed due to insufficient balance**
+![no sufficient balance](images/check-customer-balance.PNG)
+
 **Order not proceed due to insufficient balance**
 ![order not proceed](images/order-not-proceed.PNG)
 ---
